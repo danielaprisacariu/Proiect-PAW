@@ -1,0 +1,45 @@
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\bin\Debug\Proiect1.exe.config
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\bin\Debug\Proiect1.exe
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\bin\Debug\Proiect1.pdb
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.csprojAssemblyReference.cache
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.Properties.Resources.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.csproj.GenerateResource.cache
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.csproj.CoreCompileInputs.cache
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.exe
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.pdb
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.Form1.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.FormInregistrare.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.FormBilet.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.FormHome.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.FormIstoric.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Proiect1\Proiect1\obj\Debug\Proiect1.FormGrafic.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\bin\Debug\Proiect1.exe.config
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\bin\Debug\Proiect1.exe
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\bin\Debug\Proiect1.pdb
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.csprojAssemblyReference.cache
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.Form1.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.FormBilet.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.FormGrafic.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.FormHome.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.FormInregistrare.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.FormIstoric.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.Properties.Resources.resources
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.csproj.GenerateResource.cache
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.csproj.CoreCompileInputs.cache
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.exe
+D:\csie\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.pdb
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\bin\Debug\Proiect1.exe.config
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\bin\Debug\Proiect1.exe
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\bin\Debug\Proiect1.pdb
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.csprojAssemblyReference.cache
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.Form1.resources
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.FormBilet.resources
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.FormGrafic.resources
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.FormHome.resources
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.FormInregistrare.resources
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.FormIstoric.resources
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.Properties.Resources.resources
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.csproj.GenerateResource.cache
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.csproj.CoreCompileInputs.cache
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.exe
+D:\csie\Licenta IE\An III\Semestrul 2\PAW_recuperare\Proiect\Faza3_PrisacariuDaniela_1082\Proiect1\obj\Debug\Proiect1.pdb
